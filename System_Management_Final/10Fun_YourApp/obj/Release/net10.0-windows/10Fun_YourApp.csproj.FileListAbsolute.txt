@@ -1,0 +1,17 @@
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\bin\Release\net10.0-windows\10Fun_YourApp.exe
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\bin\Release\net10.0-windows\10Fun_YourApp.deps.json
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\bin\Release\net10.0-windows\10Fun_YourApp.runtimeconfig.json
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\bin\Release\net10.0-windows\10Fun_YourApp.dll
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\bin\Release\net10.0-windows\10Fun_YourApp.pdb
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\_10Fun_YourApp.Form1.resources
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.csproj.GenerateResource.cache
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.AssemblyInfoInputs.cache
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.AssemblyInfo.cs
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.csproj.CoreCompileInputs.cache
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.sourcelink.json
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.dll
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\refint\10Fun_YourApp.dll
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.pdb
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\10Fun_YourApp.genruntimeconfig.cache
+D:\College\github\System_Management\System_Management_Final\10Fun_YourApp\obj\Release\net10.0-windows\ref\10Fun_YourApp.dll
