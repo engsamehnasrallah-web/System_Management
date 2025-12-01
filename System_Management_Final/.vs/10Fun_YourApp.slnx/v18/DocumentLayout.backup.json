@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\OS\\Project\\System_Management_Semi-Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|d:\\college\\os\\project\\system_management_semi-final\\10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|solutionrelative:10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\College\\OS\\Project\\System_Management_Semi-Final\\10Fun_YourApp\\Form1.cs",
+              "RelativeDocumentMoniker": "10Fun_YourApp\\Form1.cs",
+              "ToolTip": "D:\\College\\OS\\Project\\System_Management_Semi-Final\\10Fun_YourApp\\Form1.cs [Design]",
+              "RelativeToolTip": "10Fun_YourApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:56:24.671Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
