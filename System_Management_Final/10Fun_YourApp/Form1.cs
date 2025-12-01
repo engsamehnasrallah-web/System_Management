@@ -189,7 +189,7 @@ namespace _10Fun_YourApp
 
                 using (StreamWriter sw = new StreamWriter(fullPath, true))
                 {
-                    sw.WriteLine(content);
+                    sw.Write(Environment.NewLine + content);
                 }
 
                 MessageBox.Show($"Content appended to file successfully");

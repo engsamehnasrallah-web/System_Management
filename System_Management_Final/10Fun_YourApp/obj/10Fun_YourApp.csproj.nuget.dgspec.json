@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj": {}
+    "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj": {}
   },
   "projects": {
-    "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj": {
+    "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj",
+        "projectUniqueName": "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj",
         "projectName": "10Fun_YourApp",
-        "projectPath": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj",
+        "projectPath": "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\10Fun_YourApp.csproj",
         "packagesPath": "C:\\Users\\sameh\\.nuget\\packages\\",
-        "outputPath": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\obj\\",
+        "outputPath": "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

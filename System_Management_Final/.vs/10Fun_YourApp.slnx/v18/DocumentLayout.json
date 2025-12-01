@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\College\\OS\\Project\\System_Management_Final\\",
+  "WorkspaceRootPath": "D:\\College\\github\\System_Management\\System_Management_Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|d:\\college\\os\\project\\system_management_final\\10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|d:\\college\\github\\system_management\\system_management_final\\10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|solutionrelative:10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|d:\\college\\os\\project\\system_management_final\\10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|D:\\College\\github\\System_Management\\System_Management_Final\\10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34629FB7-71F5-D501-DCD3-0F641A98CE66}|10Fun_YourApp\\10Fun_YourApp.csproj|solutionrelative:10fun_yourapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\Form1.cs",
+              "DocumentMoniker": "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\Form1.cs",
               "RelativeDocumentMoniker": "10Fun_YourApp\\Form1.cs",
-              "ToolTip": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\Form1.cs",
+              "ToolTip": "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\Form1.cs",
               "RelativeToolTip": "10Fun_YourApp\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwL8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T12:59:05.58Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\Form1.cs",
+              "DocumentMoniker": "D:\\College\\github\\System_Management\\System_Management_Final\\10Fun_YourApp\\Form1.cs",
               "RelativeDocumentMoniker": "10Fun_YourApp\\Form1.cs",
               "ToolTip": "D:\\College\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\Form1.cs [Design]",
-              "RelativeToolTip": "10Fun_YourApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OS\\Project\\System_Management_Final\\10Fun_YourApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T12:59:02.646Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-01T12:59:02.646Z"
             }
           ]
         }
